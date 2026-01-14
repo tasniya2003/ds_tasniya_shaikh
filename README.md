@@ -10,7 +10,7 @@ The goal is to understand how trader profitability, risk, and trading volume cha
 Folder Structure
 ds_tasniya_shaikh/
 ├── notebook_1.ipynb
-├── csv_files/
+├── csv_files/ 
 │   ├── historical_data.csv
 │   ├── fear_greed_index.csv
 │   ├── merged_data.csv
